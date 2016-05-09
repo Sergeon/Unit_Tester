@@ -18,7 +18,7 @@ licensed under the MIT and GPL licenses
 php 5.3 or > 
 
 #description
-  Unit_tester is a small class that performs unit tests from php scripts. While in production and big projects I would stick 	to   PHPunit, this is an easier class to use for newbyes php programmers, or small php scripts, since doesn't relay in any
+  Unit_tester is a small class that performs unit tests from php scripts. While in production and big projects I would stick 	to   PHPunit, this is an easier class to use for newbye php programmers, or use with small php scripts, since doesn't relay in any
   .phar or depends on command line php, and doesn`t need setup at all.
   
 #usage:
